@@ -16,7 +16,7 @@ body {
     background-color: #ffffff;
     padding: 40px;
     border-radius: 12px;
-    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
     max-width: 900px;
     width: 100%;
 }
@@ -35,13 +35,21 @@ h2 {
     margin-bottom: 1em;
 }
 
-ul.info-pessoal {
+h3 {
+    color: #6a0dad;
+    margin-top: 1.5em;
+    font-size: 1.4em;
+    border-bottom: 2px solid #ddd;
+    padding-bottom: 4px;
+}
+
+ul {
     list-style-type: none;
-    padding: 0;
+    padding-left: 0;
     line-height: 1.6;
 }
 
-ul.info-pessoal li {
+ul li {
     margin-bottom: 0.5em;
 }
 
